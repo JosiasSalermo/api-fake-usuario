@@ -1,0 +1,34 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "login": "admin",
+      "cpf": "123.456.789-00",
+      "admin": true
+    },
+    {
+      "id": 2,
+      "login": "joao.silva",
+      "cpf": "987.654.321-00",
+      "admin": false
+    },
+    {
+      "id": 3,
+      "login": "maria.oliveira",
+      "cpf": "321.654.987-11",
+      "admin": false
+    },
+    {
+      "id": 4,
+      "login": "carla.admin",
+      "cpf": "456.123.789-33",
+      "admin": true
+    },
+    {
+      "id": 5,
+      "login": "pedro.sousa",
+      "cpf": "159.357.258-99",
+      "admin": false
+    }
+  ]
+}
